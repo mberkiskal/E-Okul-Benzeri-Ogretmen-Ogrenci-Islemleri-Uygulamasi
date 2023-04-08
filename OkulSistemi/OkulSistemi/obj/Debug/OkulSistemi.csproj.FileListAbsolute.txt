@@ -1,0 +1,17 @@
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\bin\Debug\OkulSistemi.exe.config
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\bin\Debug\OkulSistemi.exe
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\bin\Debug\OkulSistemi.pdb
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.Form1.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.FormOgrenciNotlar.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.Properties.Resources.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.exe
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.pdb
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.FormOgretmen.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.FormKulup.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.FormDersler.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.FormOgrenci.resources
+C:\Users\mberk\source\repos\OkulSistemi\OkulSistemi\obj\Debug\OkulSistemi.FormSınavNotlari.resources
